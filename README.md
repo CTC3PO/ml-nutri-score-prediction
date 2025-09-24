@@ -9,10 +9,10 @@ For this project, we utilize the Open Food Facts database as our primary dataset
     Build a supervised classification model to predict Nutri-Score using nutritional features from the dataset.
     Identify suitable countries for Nutri-Score adoption by analyzing external datasets from the World Bank.
 
-- ##3 Nutri-Score Prediction:
+- ### Nutri-Score Prediction:
   We developed and evaluated multiple classification models. The best performance was achieved by XGBoost, which reached a test accuracy of 97.84%. This model can be used to assign recommended Nutri-Scores to unlabeled food products.
 
-- ##3 Global Applicability:
+- ### Global Applicability:
   To assess international applicability, we conducted a complementary analysis using World Bank data. Based on this, we identified the United States as a suitable candidate for Nutri-Score implementation — The 96.8/100 suitability score for the US exemplifies how data integration reveals non-obvious opportunities - despite being wealthy, the US shows concerning health metrics (high obesity, low food quality scores) that justify intervention, while its 173k analyzed products represent the largest potential market impact globally.
 
 - ### Impact:
