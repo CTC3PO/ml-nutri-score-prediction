@@ -1,7 +1,6 @@
-# ml-nutri-score-prediction
+# Predicting Nutri-Score and Global Applicability
 a machine learning project that combines Open Food Facts and World bank data to assess and recommend nutri-score system adoption globally
 
-# Project Summary: Predicting Nutri-Score and Global Applicability
 
 For this project, we utilize the Open Food Facts database as our primary dataset, with the goal of predicting the Nutri-Score — a simplified food labeling system that reflects the nutritional quality of food products. Nutri-Score was first introduced in France and is now recommended by several European Union countries. It assigns a grade from A (healthiest) to E (least healthy) based on nutrient composition.
 
